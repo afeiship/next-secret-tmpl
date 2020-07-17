@@ -2,8 +2,8 @@
  * name: @feizheng/next-secret-tmpl
  * description: Secret template engine.
  * homepage: https://github.com/afeiship/next-secret-tmpl
- * version: 1.0.0
- * date: 2020-07-17T03:30:08.999Z
+ * version: 1.0.1
+ * date: 2020-07-17T03:31:14.991Z
  * license: MIT
  */
 

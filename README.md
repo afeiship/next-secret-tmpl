@@ -15,7 +15,11 @@ npm install -S @feizheng/next-secret-tmpl
 ```js
 import '@feizheng/next-secret-tmpl';
 
-//DOCS here!
+const str = '${{ GITHUB_API_TOKEN }} - ${{ afei }}';
+const ctx = { GITHUB_API_TOKEN: 'xxx-yyy-zzz', afei:'zhengfei' };
+const res = nx.secretTmpl(str, ctx);
+
+// xxx-yyy-zzz - zhengfei
 ```
 
 ## license
