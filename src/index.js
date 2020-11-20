@@ -1,8 +1,8 @@
 (function () {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('@feizheng/next-js-core2');
+  var nx = global.nx || require('@jswork/next');
   var FORMAT_RE = /\${{(.*?)}}/g;
-  var EMPTY_STR = ''
+  var EMPTY_STR = '';
 
   nx.secretTmpl = function (inString, inContext) {
     var result = inString || EMPTY_STR;
