@@ -3,7 +3,7 @@
  * description: Secret template engine.
  * homepage: https://github.com/afeiship/next-secret-tmpl
  * version: 1.0.0
- * date: 2020-11-20 17:52:44
+ * date: 2020-11-20 17:56:52
  * license: MIT
  */
 
