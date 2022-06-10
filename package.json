@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-secret-tmpl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Secret template engine.",
   "homepage": "https://github.com/afeiship/next-secret-tmpl",
   "author": {
